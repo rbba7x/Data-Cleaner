@@ -1,10 +1,9 @@
-// --------------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Project: Data Cleaner
+// ------------------------------------------------------------------------------------------------
+//				Name: Ryan Beebe
+//				Project: Data Cleaner
 //
-// This project accepts a program from a text file and removes comment code and extra spaces  
-//
-//---------------------------------------------------------------------------------------------
+//Purpose: This project accepts a program from a text file and removes comment code and extra spaces  
+//--------------------------------------------------------------------------------------------------
 
 #include <iostream>
 #include <fstream>
